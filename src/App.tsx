@@ -12,7 +12,7 @@ const [contador, setContador] = useState(0)
     <h1> Contador: {contador}</h1>
 
     <button onClick={() => setContador}>
-      Aumentar
+      Aumentar +
     </button>
 
     </div>
